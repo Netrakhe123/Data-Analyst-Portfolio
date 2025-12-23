@@ -1,7 +1,7 @@
 # Excel Sales & Revenue Dashboard
 
 ## Dashboard Preview
-![Excel Dashboard](Sales_Revenue_Dashboard.PNG)
+![Sales_Revenue_Image](Sales_Revenue_Image.PNG)
 
 ## Project Overview
 This is a beginner-friendly Excel project created for a Data Analyst role.
