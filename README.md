@@ -1,7 +1,32 @@
-# Data-Analyst-Portfolio
-Data Analyst projects using SQL, Power BI, Excel, Python, Tableau
+# Netra Khemalapure – Data Analyst
 
-1. Amazon Prime Content Analysis Dashboard (Completed)
-- Built interactive Power BI dashboard
-- Analyzed movies and TV shows data
-- Identified content trends, genres, and ratings.
+Aspiring Data Analyst with hands-on experience in Excel, SQL, and Power BI.
+Transitioning from Mainframes domain with a strong focus on data cleaning,
+analysis, and dashboard creation.
+
+## 🛠 Skills
+- Excel (Power Query, Pivot Tables, Dashboards)
+- SQL (Joins, Group By, Subqueries)
+- Power BI (Power Query, DAX, Dashboards)
+- Data Cleaning & Analysis
+
+## 📊 Projects
+
+### 🔹 Sales Performance Dashboard – Excel
+- Built an interactive Excel dashboard using Power Query and Pivot Tables  
+- Analyzed sales by region, product, and month  
+🔗 [View Project](link-to-your-excel-project-repo)
+
+### 🔹 HR Employee Analysis using SQL
+- Performed data cleaning and sales analysis using SQL queries  
+🔗 [View Project](link-to-your-sql-project-repo)
+
+### 🔹 Amazon Prime Dashboard – Power BI
+- Created an interactive Power BI dashboard using DAX and slicers  
+🔗 [View Project](link-to-your-powerbi-project-repo)
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/yourusername
+
+
