@@ -19,7 +19,7 @@ analysis, and dashboard creation.
 
 ### 🔹 HR Employee Analysis using SQL
 - Performed data cleaning and sales analysis using SQL queries  
-🔗 [View Project](link-to-your-sql-project-repo)
+🔗 [View Project](https://github.com/Netrakhe123/Data-Analyst-Portfolio/tree/main/HR%20Employee%20Analysis)
 
 ### 🔹 Amazon Prime Dashboard – Power BI
 - Created an interactive Power BI dashboard using DAX and slicers  
