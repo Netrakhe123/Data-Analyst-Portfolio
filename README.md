@@ -31,7 +31,7 @@ Strong interest in data cleaning, analysis, and dashboard creation to support bu
 - Data Analyst Certification
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: www.linkedin.com/in/netra-khemalapure-528961345
 - GitHub: https://github.com/Netrakhe123/Data-Analyst-Portfolio
 
 
