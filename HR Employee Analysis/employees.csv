@@ -1,0 +1,6 @@
+employee_id,employee_name,department_id,joining_date,status
+1,Anita,10,2021-01-10,Active
+2,Rohit,20,2020-03-15,Active
+3,Sneha,10,2022-06-01,Active
+4,Vikas,30,2019-11-20,Resigned
+5,Pooja,20,2023-02-12,Active
