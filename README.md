@@ -23,7 +23,7 @@ analysis, and dashboard creation.
 
 ### 🔹 Amazon Prime Dashboard – Power BI
 - Created an interactive Power BI dashboard using DAX and slicers  
-🔗 [View Project](link-to-your-powerbi-project-repo)
+🔗 [View Project](https://github.com/Netrakhe123/Data-Analyst-Portfolio/tree/main/Amazon-Prime-Dashboard)
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/yourprofile
