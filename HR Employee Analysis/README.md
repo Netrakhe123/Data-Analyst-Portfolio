@@ -1,5 +1,7 @@
 # HR Employee Analysis using SQL
 
+SQL: Performed data cleaning and joins on HR data to analyze department-wise employee distribution.
+
 ## Project Objective
 Analyze employee data using SQL with simple joins and data cleaning.
 
