@@ -15,7 +15,7 @@ analysis, and dashboard creation.
 ### 🔹 Sales Performance Dashboard – Excel
 - Built an interactive Excel dashboard using Power Query and Pivot Tables  
 - Analyzed sales by region, product, and month  
-🔗 [View Project](link-to-your-excel-project-repo)
+🔗 [View Project](https://github.com/Netrakhe123/Data-Analyst-Portfolio/tree/main/Sales_Performance_Dashboard)
 
 ### 🔹 HR Employee Analysis using SQL
 - Performed data cleaning and sales analysis using SQL queries  
