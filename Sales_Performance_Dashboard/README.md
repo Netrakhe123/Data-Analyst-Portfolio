@@ -1,6 +1,6 @@
 ## Sales Performance Dashboard – Excel
 
-![Sales Dashboard](Sales_Performance_Dashboard.png)
+![Sales_Performance_Dashboard](Sales_Performance_Dashboard.png)
 
 ### Tools Used
 - Microsoft Excel
