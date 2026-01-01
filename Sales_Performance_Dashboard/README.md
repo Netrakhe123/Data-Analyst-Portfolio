@@ -1,6 +1,7 @@
 ## Sales Performance Dashboard – Excel
 
 Dashboard Preview
+
 ![Sales_Performance_Dashboard](Sales_Performance_Dashboard.png)
 
 ### Tools Used
