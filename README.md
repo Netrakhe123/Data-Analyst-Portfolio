@@ -1,7 +1,7 @@
 # Netra Khemalapure – Data Analyst
 
 Aspiring Data Analyst with 1.6 years of IT experience at DXC Technology as a Mainframe professional.
-Transitioning into data analytics with hands-on experience in Excel, SQL, and Power BI through real-world projects.
+Transitioning into data analytics with hands-on experience in Excel, SQL, Tableau, Python and Power BI through real-world projects.
 Strong interest in data cleaning, analysis, and dashboard creation to support business decision-making.
 
 ## 🛠 Skills
