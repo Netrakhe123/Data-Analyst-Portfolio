@@ -32,6 +32,6 @@ Strong interest in data cleaning, analysis, and dashboard creation to support bu
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/Netrakhe123/Data-Analyst-Portfolio
 
 
