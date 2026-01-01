@@ -1,4 +1,6 @@
 # Amazon Prime Content Analysis Dashboard
+Dahboard Preview
+![Amazon_Prime_Dashboard](Amazon_prime_Dashbaord.PNG)
 
 ## Objective
 To analyze Amazon Prime movies and TV shows data and build an interactive Power BI dashboard to understand content distribution, genres, ratings, and trends over time.
