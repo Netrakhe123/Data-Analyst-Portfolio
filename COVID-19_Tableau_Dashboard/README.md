@@ -3,7 +3,6 @@
 **Dashboard Preview**
 ![COVID-19_Dashbaord](COVID-19_Tableau.PNG)
 
-
 ## 📌 Project Overview
 This project analyzes the global impact of COVID-19 using Tableau. 
 The dashboard provides insights into confirmed cases trends, top affected countries, 
