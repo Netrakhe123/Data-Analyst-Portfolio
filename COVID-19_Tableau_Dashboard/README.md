@@ -1,7 +1,7 @@
 # COVID-19 Global Impact Analysis | Tableau Dashboard
 
 **Dashboard Preview**
-![COVID-19_Dashbaord](COVID-19_Tableau.PNG)
+![COVID-19_Dashbaord](COVID-19_Tableau_PNG)
 
 
 ## 📌 Project Overview
