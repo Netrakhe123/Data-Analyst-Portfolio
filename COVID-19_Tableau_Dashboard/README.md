@@ -35,11 +35,6 @@ and the geographic spread of the virus.
 - Certain countries reported significantly higher confirmed cases
 - Global spread patterns highlight regional variations in impact
 
-## 📂 Files in Repository
-- `covid_19_clean_complete.csv` – Dataset
-- `COVID19_Tableau_Dashboard.twbx` – Tableau packaged workbook
-- `README.md` – Project documentation
-
 ## 🔗 Tableau Public Link
-(Add your Tableau Public dashboard link here)
+https://public.tableau.com/app/profile/netra.khemalapure/viz/Book1_17495442206420/Dashboard1?publish=yes
 
