@@ -15,6 +15,15 @@ and the geographic spread of the virus.
 - Visualize global spread using map analysis
 - Support data-driven understanding of the pandemic impact
 
+## KPI Metrics
+- This dashboard includes key performance indicators (KPIs) to provide a quick summary of COVID-19 data.
+- Total Confirmed Cases – shows overall confirmed COVID-19 cases.
+- Total Deaths – displays total number of reported deaths.
+- Total Recovered Cases – shows total recovered patients.
+- Active Cases – calculated to understand current active infections.
+- KPIs are placed at the top of the dashboard for quick insights and easy decision-making.
+- KPIs are designed to give an instant overview and help users understand the overall situation without deep analysis.
+
 ## 📊 Dataset
 - Source: COVID-19 Clean Dataset
 - Format: CSV
